@@ -19,7 +19,7 @@ rootProject.allprojects {
         maven {
 //            url "https://github.com/jitsi/jitsi-maven-repository/raw/master/releases"
 //            url "file:/Users/developer/aws/jitsi-meet/tmp/repo"
-            url "file:/Users/css/React_application/jitsi-meet/tmp/repo"
+            url "file:/Users/css/React_application/jitsi/jitsi-meet/tmp/repo"
         }
         google()
         jcenter()
